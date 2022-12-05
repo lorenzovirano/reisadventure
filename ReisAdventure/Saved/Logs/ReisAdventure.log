@@ -888,3 +888,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.05-23.46.46:399][  0]LogSlate: Took 0.044052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2022.12.05-23.46.46:547][  0]LogSlate: Took 0.088766 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2022.12.05-23.46.46:653][  0]LogSlate: Took 0.014887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.05-23.46.50:184][  0]LogRenderer: Reallocating scene render targets to support 1172x572 Format 10 NumSamples 1 (Frame:1).
+[2022.12.05-23.46.56:857][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.05-23.46.56:857][  0]LogLoad: (Engine Initialization) Total time: 210.56 seconds
+[2022.12.05-23.46.56:857][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.05-23.46.58:479][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.05-23.47.00:315][  1]LogAssetRegistry: Asset discovery search completed in 149.3382 seconds
+[2022.12.05-23.47.00:328][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
