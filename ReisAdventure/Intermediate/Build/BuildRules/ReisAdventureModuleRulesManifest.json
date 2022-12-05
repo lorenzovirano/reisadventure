@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"L:\\Unreal Projects\\reisadventure\\ReisAdventure\\Source\\ReisAdventure\\ReisAdventure.Build.cs",
+		"L:\\Unreal Projects\\reisadventure\\ReisAdventure\\Source\\ReisAdventure.Target.cs",
+		"L:\\Unreal Projects\\reisadventure\\ReisAdventure\\Source\\ReisAdventureEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

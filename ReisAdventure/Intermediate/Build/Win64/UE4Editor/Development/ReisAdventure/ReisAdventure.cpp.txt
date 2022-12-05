@@ -1,0 +1,2 @@
+L:\Unreal Projects\reisadventure\ReisAdventure\Intermediate\Build\Win64\UE4Editor\Development\ReisAdventure\Definitions.ReisAdventure.h
+L:\Unreal Projects\reisadventure\ReisAdventure\Source\ReisAdventure\ReisAdventure.h

@@ -1,0 +1,9 @@
+L:\Unreal Projects\reisadventure\ReisAdventure\Intermediate\Build\Win64\UE4Editor\Development\ReisAdventure\Definitions.ReisAdventure.h
+L:\Programmi\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+L:\Programmi\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+L:\Unreal Projects\reisadventure\ReisAdventure\Source\ReisAdventure/ReisAdventureGameModeBase.h
+L:\Programmi\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+L:\Programmi\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+L:\Programmi\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+L:\Programmi\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+L:\Unreal Projects\reisadventure\ReisAdventure\Intermediate\Build\Win64\UE4Editor\Inc\ReisAdventure\ReisAdventureGameModeBase.generated.h

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ReisAdventure.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"L:\Unreal Projects\reisadventure\ReisAdventure\Intermediate\Build\Win64\ReisAdventureEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"L:\Unreal Projects\reisadventure\ReisAdventure\Intermediate\Build\Win64\UE4Editor\Development\ReisAdventure\ReisAdventure.cpp.obj"
+"L:\Unreal Projects\reisadventure\ReisAdventure\Intermediate\Build\Win64\UE4Editor\Development\ReisAdventure\ReisAdventureGameModeBase.cpp.obj"
+"L:\Unreal Projects\reisadventure\ReisAdventure\Intermediate\Build\Win64\UE4Editor\Development\ReisAdventure\ReisAdventure.init.gen.cpp.obj"
+"L:\Unreal Projects\reisadventure\ReisAdventure\Intermediate\Build\Win64\UE4Editor\Development\ReisAdventure\ReisAdventureGameModeBase.gen.cpp.obj"
+"L:\Unreal Projects\reisadventure\ReisAdventure\Intermediate\Build\Win64\UE4Editor\Development\ReisAdventure\Default.rc2.res"
+/OUT:"L:\Unreal Projects\reisadventure\ReisAdventure\Intermediate\Build\Win64\UE4Editor\Development\ReisAdventure\UE4Editor-ReisAdventure.lib"

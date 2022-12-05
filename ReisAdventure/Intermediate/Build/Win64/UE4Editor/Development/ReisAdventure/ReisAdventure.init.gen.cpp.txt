@@ -1,0 +1,3 @@
+L:\Unreal Projects\reisadventure\ReisAdventure\Intermediate\Build\Win64\UE4Editor\Development\ReisAdventure\Definitions.ReisAdventure.h
+L:\Programmi\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+L:\Programmi\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

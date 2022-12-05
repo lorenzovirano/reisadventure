@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ReisAdventure",
+			"Path": "L:\\Unreal Projects\\reisadventure\\ReisAdventure\\Source\\ReisAdventure.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ReisAdventureEditor",
+			"Path": "L:\\Unreal Projects\\reisadventure\\ReisAdventure\\Source\\ReisAdventureEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
